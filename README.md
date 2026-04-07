@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rajshekhar 👋
 
-<!--
-**bhargavaraj8553/bhargavaraj8553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer at UIDAI working on large-scale distributed systems.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Design event-driven architectures using Kafka
+- Build scalable microservices with Spring Boot
+- Work on real-time processing systems handling millions of requests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Java | Go | Spring Boot | Kafka | Redis | PostgreSQL | Docker | Kubernetes
+
+## 📈 Experience Highlights
+- Built high-throughput biometric processing pipelines (millions/day)
+- Designed idempotent and fault-tolerant systems (99.99% reliability)
+- Worked on real-time AI voice pipelines with sub-second latency
+
+## 📌 Projects
+- LeetCode Solutions (consistent DSA practice)
+- Distributed backend systems @ UIDAI
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/rajshekharb
