@@ -37,9 +37,9 @@ Building scalable distributed systems handling millions of requests/day
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bhargavaraj8553&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=bhargavaraj8553&show_icons=true&theme=default&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavaraj8553&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavaraj8553&layout=compact&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhargavaraj8553)
 
