@@ -36,11 +36,5 @@ Building scalable distributed systems handling millions of requests/day
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bhargavaraj8553)
-
----
-
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/rajshekharb
